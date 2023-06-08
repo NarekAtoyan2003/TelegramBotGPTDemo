@@ -1,6 +1,6 @@
-package com.bot.DemoTelegramGPTBot.config;
+package com.bot.TelegramTimeMemagerBot.config;
 
-import com.bot.DemoTelegramGPTBot.cntroler.TelegramBot;
+import com.bot.TelegramTimeMemagerBot.cntroler.TelegramBot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.event.ContextRefreshedEvent;
 import org.springframework.context.event.EventListener;

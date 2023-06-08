@@ -1,4 +1,4 @@
-package com.bot.DemoTelegramGPTBot.config;
+package com.bot.TelegramTimeMemagerBot.config;
 
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
